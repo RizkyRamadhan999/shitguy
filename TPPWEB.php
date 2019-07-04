@@ -47,8 +47,8 @@ if (isset($_POST["input"]))
 </div>
 <div align="center">
 	<a href="https://www.google.com" onclick="klik()"><y>GOOGLE</y></a>||
-	<a href="" onclick="klik()"><y>YOUTUBE</y></a>||
-	<a href="" onclick="klik()"><y>FACEBOOK</y></a>
+	<a href="https://www.youtube.com/" onclick="klik()"><y>YOUTUBE</y></a>||
+	<a href="https://www.facebook.com/" onclick="klik()"><y>FACEBOOK</y></a>
 	<br>
 	<h3>UNIVERSITAS AHMAD DAHLAN</h3>
 </div>
